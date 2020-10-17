@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "улитка", "улитка\улитка.csproj", "{7E0DC02E-2B31-417B-A275-B1B74BD5DEBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0DC02E-2B31-417B-A275-B1B74BD5DEBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0DC02E-2B31-417B-A275-B1B74BD5DEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0DC02E-2B31-417B-A275-B1B74BD5DEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0DC02E-2B31-417B-A275-B1B74BD5DEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70E9EEBC-6E67-4B80-B534-5DF0DD6034D8}
+	EndGlobalSection
+EndGlobal
